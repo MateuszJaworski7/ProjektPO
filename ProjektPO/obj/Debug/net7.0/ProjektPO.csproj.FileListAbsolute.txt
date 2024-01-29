@@ -1,0 +1,17 @@
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ProjektPO.csproj.AssemblyReference.cache
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ProjektPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ProjektPO.AssemblyInfoInputs.cache
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ProjektPO.AssemblyInfo.cs
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ProjektPO.csproj.CoreCompileInputs.cache
+C:\Users\matis\source\repos\ProjektPO\bin\Debug\net7.0\ProjektPO.exe
+C:\Users\matis\source\repos\ProjektPO\bin\Debug\net7.0\ProjektPO.deps.json
+C:\Users\matis\source\repos\ProjektPO\bin\Debug\net7.0\ProjektPO.runtimeconfig.json
+C:\Users\matis\source\repos\ProjektPO\bin\Debug\net7.0\ProjektPO.dll
+C:\Users\matis\source\repos\ProjektPO\bin\Debug\net7.0\ProjektPO.pdb
+C:\Users\matis\source\repos\ProjektPO\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ProjektPO.csproj.CopyComplete
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ProjektPO.dll
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\refint\ProjektPO.dll
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ProjektPO.pdb
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ProjektPO.genruntimeconfig.cache
+C:\Users\matis\source\repos\ProjektPO\obj\Debug\net7.0\ref\ProjektPO.dll

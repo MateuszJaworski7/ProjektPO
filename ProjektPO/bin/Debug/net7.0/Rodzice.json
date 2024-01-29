@@ -1,0 +1,18 @@
+[
+  {
+    "KidID": 101,
+    "PhoneNumber": "987654321",
+    "Role": "Matka",
+    "IdP": 1012,
+    "FirstName": "Anna",
+    "LastName": "Kowalska"
+  },
+  {
+    "KidID": 101,
+    "PhoneNumber": "123456789",
+    "Role": "Ojciec",
+    "IdP": 1011,
+    "FirstName": "Antoni",
+    "LastName": "Kowalski"
+  }
+]

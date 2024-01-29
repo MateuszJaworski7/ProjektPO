@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Database">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>VAhuECAAQgCVICEhDgUEAAkECEAgIAAAAQIQQAAKEAI=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPO.FinalGrade">
+    <Position X="16" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAACAAA=</HashCode>
+      <FileName>FinalGrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPO.Grade">
+    <Position X="16" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAA=</HashCode>
+      <FileName>Grade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPO.Parents">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAQAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Parents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABmUAAAAACVAAFgAgAAAAEECAAAAAAAoAIARAAIAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPO.Teacher">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPO.Subject">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPO.Student">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektPO.StudentCouncil">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StudentCouncil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
